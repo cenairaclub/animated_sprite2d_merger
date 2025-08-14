@@ -1,4 +1,4 @@
-# animated_sprite2d_merger
+# Animated Sprite2D Merger
 Merge multiple AnimatedSprite2D nodes into a single AnimatedSprite2D
 
 # How to Use?
